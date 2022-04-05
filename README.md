@@ -5,6 +5,14 @@ Here is my adventure into the world of functional programming. This repository w
 ---
 ---
 
-## 1. Cheat sheet 
+## 1. Functional Programming Principles in Scala
+
+Resources:
+https://www.coursera.org/learn/scala-functional-programming/supplement/D9pm0/learning-resources
+
+Better code:
+https://www.coursera.org/learn/scala-functional-programming/supplement/KPiGt/scala-style-guide
+
+Cheat sheet 
 
 https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
