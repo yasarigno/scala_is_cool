@@ -17,7 +17,7 @@ Cheat sheet
 
 https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
 
-## 2. Haskell for everybody
+## 2. Functional Programming via Haskell
 
 Brian Beckman explains what a monad [is](https://www.youtube.com/watch?app=desktop&v=ZhuHCtR3xq8). Impressive!
 
